@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora | tentativa 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <input type="number" id="tela">
+    <img src="quadro matematica.jpg" alt="MATEMATICA" id="matematica">
+    <div class="container">
+        <div class="calculadora">
+            <div class="buttons">
+                <button id="um" onclick="um()">1</button>
+                <button id="dois" onclick="dois()">2</button>
+                <button id="tres" onclick="tres()">3</button>
+                <button id="mais" onclick="mais()">+</button>
+                <button id="quatro" onclick="quatro()">4</button>
+                <button id="cinco" onclick="cinco()">5</button>
+                <button id="seis" onclick="seis()">6</button>
+                <button id="menos" onclick="menos()">-</button>
+                <button id="sete" onclick="sete()">7</button>
+                <button id="oito" onclick="oito()">8</button>
+                <button id="nove" onclick="nove()">9</button>
+                <button id="x" onclick="x()">X</button>
+                <button id="zero" onclick="zero()">0</button>
+                <button id="clear" onclick="limpar()">C</button>
+                <button id="resultado" onclick="resultado()">=</button>
+            </div>
+        </div>
+    </div>
+    <div class="vertical-line">
+        <div id="resum" class="calculo">
+        </div>
+        <div id="resdois" class="calculo">
+    
+        </div>
+        <div id="restres" class="calculo">
+    
+        </div>
+        <div id="resquatro" class="calculo">
+    
+        </div>
+        <div id="rescinco" class="calculo">
+    
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

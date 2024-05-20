@@ -1,0 +1,234 @@
+#um{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#dois{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#tres{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#quatro{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#cinco{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#seis{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#sete{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#oito{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#nove{
+    background-color: rgb(109, 109, 109);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+}
+#zero {
+    background-color: rgb(109, 109, 109);
+    border-radius: 19px;
+    width: 105px;
+    height: 50px;
+    border: none;
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    transition: background-color 0.3s, transform 0.2s;
+    box-shadow: 0 0 7px 7px rgb(75, 75, 75);
+    
+}
+#mais{
+    background-color: rgb(211, 190, 0);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(80, 72, 0);
+}
+#menos{
+    background-color: rgb(211, 190, 0);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(80, 72, 0);
+}
+#resultado{
+    background-color: rgb(194, 71, 0);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 7px 7px rgb(110, 44, 0);
+}
+#clear{
+    background-color: rgb(55, 80, 27);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 0 0 5px 5px rgb(44, 80, 4);
+}
+#x{
+    background-color: rgb(209, 188, 0);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 0 7px 7px rgb(80, 72, 0);
+}
+.buttons{
+    width: 220px;    
+}
+.vertical-line {
+        width: 1px; 
+        height: 650px; 
+        background-color: rgb(255, 255, 255);
+        position: fixed;  
+        right: 20vw; 
+        top: 0; 
+        font-size: 25px;
+    }
+    
+body {
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+.calculo{
+    margin-left: 10px;
+    margin-top: 75px;
+    color: white;
+    white-space: nowrap;
+}
+.calculadora{
+    position: absolute;
+    left: 51%;
+    top: 59%;
+    transform: translate(-50%, -50%);
+}
+#tela{
+    position: absolute;
+    left: 50%;
+    top: 31%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 30px;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 230px;
+    height: 300px;
+    background-color: rgb(56, 56, 56);
+    border-radius: 10px;
+    z-index: -1;
+}
+#matematica{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed; 
+    z-index: -1; 
+    filter: opacity(3%);
+}
