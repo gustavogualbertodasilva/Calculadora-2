@@ -8,7 +8,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #dois{
     background-color: rgb(109, 109, 109);
@@ -19,7 +19,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 1px 1px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #tres{
     background-color: rgb(109, 109, 109);
@@ -30,7 +30,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #quatro{
     background-color: rgb(109, 109, 109);
@@ -41,7 +41,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #cinco{
     background-color: rgb(109, 109, 109);
@@ -52,7 +52,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #seis{
     background-color: rgb(109, 109, 109);
@@ -64,7 +64,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #sete{
     background-color: rgb(109, 109, 109);
@@ -75,7 +75,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #oito{
     background-color: rgb(109, 109, 109);
@@ -86,7 +86,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #nove{
     background-color: rgb(109, 109, 109);
@@ -98,7 +98,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
 }
 #zero {
     background-color: rgb(109, 109, 109);
@@ -111,7 +111,7 @@
     font-weight: bold;
     color: white;
     transition: background-color 0.3s, transform 0.2s;
-    box-shadow: 0 0 4px 4px rgb(75, 75, 75);
+    box-shadow: 0 0 2px 2px rgb(75, 75, 75);
     
 }
 #mais{
@@ -123,7 +123,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(80, 72, 0);
+    box-shadow: 0 0 2px 2px rgb(80, 72, 0);
 }
 #menos{
     background-color: rgb(211, 190, 0);
@@ -134,7 +134,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(80, 72, 0);
+    box-shadow: 0 0 2px 2px rgb(80, 72, 0);
 }
 #resultado{
     background-color: rgb(194, 71, 0);
@@ -145,7 +145,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(110, 44, 0);
+    box-shadow: 0 0 2px 2px rgb(110, 44, 0);
 }
 #clear{
     background-color: rgb(55, 80, 27);
@@ -156,7 +156,7 @@
     font-size: 15px;
     font-weight: bold;
     color: white;
-    box-shadow: 0 0 4px 4px rgb(44, 80, 4);
+    box-shadow: 0 0 2px 2px rgb(44, 80, 4);
 }
 #x{
     background-color: rgb(209, 188, 0);
@@ -168,7 +168,7 @@
     font-weight: bold;
     color: white;
     transition: background-color 0.3s ease;
-    box-shadow: 0 0 4px 7px rgb(80, 72, 0);
+    box-shadow: 0 0 2px 2px rgb(80, 72, 0);
 }
 .buttons{
     width: 220px;    
