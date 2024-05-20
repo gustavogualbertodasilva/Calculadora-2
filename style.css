@@ -232,3 +232,7 @@ body {
     z-index: -1; 
     filter: opacity(3%);
 }
+  input:disabled {
+        background-color: white; 
+        color: black; 
+    }
