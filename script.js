@@ -175,7 +175,7 @@ function resultado(){
         historico[3].innerText = `${historico[2].innerText}`
         historico[2].innerText = `${historico[1].innerText}`
         historico[1].innerText = `${historico[0].innerText}`
-        historico[0].innerText = `${n1} - ${inputvalue} = ${res}`
+        historico[0].innerText = `${n1} + ${inputvalue} = ${res}`
     } else if (operacao === "menos") {
         res = n1 - inputvalue;
         historico[4].innerText = `${historico[3].innerText}`
@@ -191,7 +191,7 @@ function resultado(){
         historico[3].innerText = `${historico[2].innerText}`
         historico[2].innerText = `${historico[1].innerText}`
         historico[1].innerText = `${historico[0].innerText}`
-        historico[0].innerText = `${n1} - ${inputvalue} = ${res}`
+        historico[0].innerText = `${n1} X ${inputvalue} = ${res}`
     }
     window.document.getElementById("tela").value = res;
     var elemento = document.getElementById('resultado');
